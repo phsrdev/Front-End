@@ -1,0 +1,13 @@
+.receita__botao {
+    background: #8d0606; /*para definirmos a cor de fundo*/
+    border: none; /*para removermos as bordas do botão*/
+    border-radius: 5px; /*para que os cantos do botão sejam arredondados*/
+    color: #fdfdfd; /*para alterarmos a cor do texto*/
+    padding: 1rem; /*definindo o espaçamento interno*/
+    transition: all .1s ease-in-out; /*indicando uma animação de transição que deverá ocorrer devagar*/
+  }
+
+.receita__botao:hover {
+    background: #620404;
+    cursor: pointer;
+}

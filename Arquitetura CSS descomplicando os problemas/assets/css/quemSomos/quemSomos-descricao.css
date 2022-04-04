@@ -1,0 +1,5 @@
+.quem-somos__descricao {
+    color: #595959; /*para selecionarmos o tom de cinza do protótipo*/
+    font-size: 1.75rem; /*para ajustarmos o seu tamanho*/
+    font-weight: 100; /*para reduzirmos o peso da fonte e torná-la mais clara*/
+}

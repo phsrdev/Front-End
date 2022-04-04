@@ -1,0 +1,6 @@
+.quem-somos__titulo {
+    color: #8d0606; /*definindo a cor vinho*/
+    font-family: Pacifico, cursive; /*fonte cursiva*/
+    font-size: 3.1875rem; /*definindo o tamanho da fonte*/
+    margin-bottom: 1rem; /*para termos uma margem inferior entre o título e a descrição*/
+}
