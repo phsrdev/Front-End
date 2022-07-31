@@ -6,8 +6,14 @@ document.getElementsByClassName(‘classe’) retorna um array dos elementos pel
 document.getElementsByTagName(‘tag’) retorna um array dos elementos pelo nome da tag passada
 document.querySelectorAll(seletor) devolve todos os seletores com o mesmo nome
 
-Nesta aula, aprendemos:
+Na aula 1, foi visto como:
 
 Percorrer a árvore do DOM
 Utilizar o querySelector para selecionar elementos da árvore do DOM
 Funcionamento da estrutura do DOM
+
+Na aula 2, foi visto como:
+
+Utilizar data-attributes
+Utilizar o método addEventListener para escutar eventos no elemento
+Prevenir o comportamento padrão do formulário
