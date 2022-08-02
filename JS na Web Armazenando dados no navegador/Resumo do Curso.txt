@@ -4,3 +4,25 @@ Utilizar componente de calendário
 Manipular datas
 Desestruturar objetos em JavaScript
 
+Na aula 2 LocalStorage aprendemos: 
+
+Que conseguimos acessar métodos do navegador através de interfaces, e elas são as famosas APIs (Application Programming Interfaces),
+que são construções disponíveis nas linguagens de programação e permitem a desenvolvedores/as criar funcionalidades complexas mais
+facilmente.
+
+A documentação da Mozilla explica de forma clara o que é uma API:
+
+“Pense no seguinte exemplo: o uso de energia elétrica em sua casa ou apartamento. Quando você deseja utilizar um eletrodoméstico, 
+você precisa somente ligar o aparelho na tomada. Não é preciso conectar o fio do aparelho diretamente na caixa de luz. Isso seria, 
+além de muito ineficiente, difícil e perigoso de ser feito (caso você não seja eletricista).
+
+APIs de navegadores: fazem parte do seu navegador web, sendo capazes de expor dados do navegador. Essas construções abstraem o código
+mais complexo, proporcionando o uso de sintaxes mais simples em seu lugar, semelhante ao que o moment.js faz, simplificando o trabalho
+com datas.
+
+ainda nesta aula, aprendemos a:
+
+Salvar dados no navegador utilizando SessionStorage
+Armazenar dados sem encerrar a sessão com e LocalStorage
+Transformar objetos em string utilizando JSON.stringify()
+
