@@ -1,10 +1,14 @@
-Na aula 1 Trabalhando com datas aprendemos a:
+Aula 1 Trabalhando com datas 
+
+Foi visto como:
 
 Utilizar componente de calendário
 Manipular datas
 Desestruturar objetos em JavaScript
 
-Na aula 2 LocalStorage aprendemos: 
+Aula 2 LocalStorage 
+
+Descobri: 
 
 Que conseguimos acessar métodos do navegador através de interfaces, e elas são as famosas APIs (Application Programming Interfaces),
 que são construções disponíveis nas linguagens de programação e permitem a desenvolvedores/as criar funcionalidades complexas mais
@@ -26,3 +30,21 @@ Salvar dados no navegador utilizando SessionStorage
 Armazenar dados sem encerrar a sessão com e LocalStorage
 Transformar objetos em string utilizando JSON.stringify()
 
+Aula 3 Renderizando a lista:
+
+Durante o curso utilizamos o pipe || para criar uma avaliação de curto circuito.
+
+const tarefas = JSON.parse(localStorage.getItem('tarefas')) || [ ]
+
+Com isso, dizíamos à aplicação que caso o localStorage estivesse com dados ela se comportaria de um modo, se ele estivesse vazio, 
+ele iniciaria com um array vazio. As expressões lógicas são avaliadas da esquerda pra direita, logo, se a primeira atender o caso
+de sucesso, o segundo caso não é aplicado, e se o primeiro for avaliado como falso, caímos no segundo caso.
+
+true || false // true
+false || true // true
+
+ainda nesta aula, aprendemos a:
+
+Iterar sobre os itens do LocalStorage
+Utilizar o curto circuito para verificação lógica
+Converter os itens que antes eram strings em objetos com JSON.parse
