@@ -1,0 +1,6 @@
+Na aula 1 Trabalhando com datas aprendemos a:
+
+Utilizar componente de calendário
+Manipular datas
+Desestruturar objetos em JavaScript
+
