@@ -54,3 +54,9 @@ Aula 4 Ordenando as Tarefas:
 Foi visto como filtrar elementos de um array
 E ordenar elementos do LocalStorage
 
+Aula 5 Finalizando o projeto:
+
+Nesta aula final, aprendemos a:
+
+Alterar um estado utilizando operador de negação (!)
+Remover dados do LocalStorage utilizando o método splice
